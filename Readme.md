@@ -1,6 +1,5 @@
-Tutorial of isQG
+isQG
 ==================
-
 
 For Matlab users
 ------------------
