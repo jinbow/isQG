@@ -31,6 +31,6 @@ It is written in Python. Try Enthought (https://www.enthought.com).
 For Python users
 ------------------
 
-Read the code. It is straight forward.
+Read the code. It is straightforward.
 
 
