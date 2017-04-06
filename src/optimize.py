@@ -23,7 +23,7 @@ if __name__ == '__main__':
     z = np.linspace(0,-2000,30)
     n2 = np.ones_like(z)* 1e-5
     
-    d = isqg.isqg_data(n2=n2,z=z,rhosorg=ssd-ssd.mean(),lon=lon,lat=lat,rho0=1035.)
+    d = isqg.isqg_data(n2=n2,z=z,lon=lon,lat=lat,rho0=1035.)
     ssda=ssd-ssd.mean()
     ssdm = np.ones_like(ssd)*ssd.mean()
     rhom = isqg.N2rho(ssdm, isqg.twopave(n2), np.diff(z))
