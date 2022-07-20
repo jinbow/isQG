@@ -6,7 +6,7 @@
 Welcome to isQG's documentation!
 ================================
 
-isQG is a framework proposed by Wang et al. 2013 in which three dimentional subsurface state in the ocean is reconstructed using information of Sea Surface Temperature, Sea Surface Height and a horizontally averaged stratification profile. This brief tutorial will show you how to use the python package. Please email me if you are interested in trying it. 
+isQG is a framework proposed by `Wang et al. 2013 <https://journals.ametsoc.org/view/journals/phoc/43/8/jpo-d-12-0204.1.xml>`_ in which three dimentional subsurface state in the ocean is reconstructed using information of Sea Surface Temperature, Sea Surface Height and a horizontally averaged stratification profile. This brief tutorial will show you how to use the python package. Please email me if you are interested in trying it. 
 
 .. toctree::
    :maxdepth: 1
@@ -19,6 +19,9 @@ isQG is a framework proposed by Wang et al. 2013 in which three dimentional subs
    post
    tutorials
 
+
+Reference
+   Wang, J., Flierl, G. R., LaCasce, J. H., McClean, J. L., & Mahadevan, A. (2013). Reconstructing the Ocean's Interior from Surface Data, Journal of Physical Oceanography, 43(8), 1611-1626. Retrieved Jul 20, 2022, from https://journals.ametsoc.org/view/journals/phoc/43/8/jpo-d-12-0204.1.xml
 
 Indices and tables
 ==================
