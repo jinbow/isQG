@@ -5,8 +5,9 @@
 
 Welcome to isQG's documentation!
 ================================
+The isQG framework, which combines the Sea Surface Temperature (SST) and Sea Surface Height (SSH) fields with local ocean stratification climatology, aims to reconstruct the subsurface state of the ocean in three dimensions. First introduced by `Wang et al. 2013 <https://journals.ametsoc.org/view/journals/phoc/43/8/jpo-d-12-0204.1.xml>`_, the framework has since undergone further development. Instructions for installation, usage of the software, and details on how to contribute are provided below.
 
-The interior+surface Quasi-geostrophic (isQG) framework aims to reconstruct the three dimensional subsurface state in the ocean based on the Sea Surface Temperature (SST) and Sea Surface Height (SSH) fields together with climatology of the local ocean stratification. It was initially proposed by `Wang et al. 2013 <https://journals.ametsoc.org/view/journals/phoc/43/8/jpo-d-12-0204.1.xml>`_ and has been evolving since. Here is the information for installing, using the software, and the way to contribute.
+The interior+surface Quasi-geostrophic (isQG) framework aims to reconstruct the three dimensional subsurface state in the ocean based on the Sea Surface Temperature (SST) and Sea Surface Height (SSH) fields together with climatology of the local ocean stratification. It was initially proposed by  and has been evolving since. Here is the information for installing, using the software, and the way to contribute.
 
 This document is under development. 
 
