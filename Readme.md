@@ -12,6 +12,7 @@ Installation
 To install isQG, simply clone this repository and run the setup file using the following command:
 
 .. code-block:: sh
+
     $ git clone https://github.com/username/isqg.git
     $ cd isqg
     $ python setup.py install
@@ -30,6 +31,7 @@ isQG can be used to reconstruct the three-dimensional subsurface state of the oc
 To use isQG, first prepare the input data (SST, SSH anomaly, and ocean stratification climatology) in NetCDF format. Then, use the `isqg_reconstruction.py` script to perform the reconstruction. An example command is provided below:
 
 .. code-block:: sh
+
     $ python isqg_reconstruction.py -i input_data.nc -o output_data.nc
 
 This will output the reconstructed subsurface state in NetCDF format.
