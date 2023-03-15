@@ -13,7 +13,7 @@ To install isQG, simply clone this repository and run the setup file using the f
 
 .. code-block:: sh
 
-    $ git clone https://github.com/username/isqg.git
+    $ git clone https://github.com/jinbow/isqg.git
     $ cd isqg
     $ python setup.py install
 
