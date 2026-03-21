@@ -15,7 +15,6 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 
-
 class isqg_data:
     """
     Class for reconstructing a 3D ocean field using surface and interior observations.
